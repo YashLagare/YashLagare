@@ -1,0 +1,25 @@
+### 👋 Hi there, I'm Yash Lagare!
+
+💻 I'm a passionate developer currently pursuing my MCA from D.Y.Patil Agriculture & Technical University Talsande.  
+🚀 I love building full-stack applications and exploring the latest in web development and cloud computing.
+
+### 👀 Interests
+- Full-Stack Development (MERN Stack)
+- Responsive Frontends
+
+### 🌱 Currently Learning
+- Advanced React and Node.js(MERN)
+
+### 🤝 Looking to Collaborate On
+- Open-source projects
+- Web development teams
+- Innovative tech ideas & hackathons
+
+### 📫 How to Reach Me
+- 📧 Email: yashlagare77@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-lagare-814b37299)
+- 💼 [Instagram](https://www.instagram.com/yashlagare/?hl=en ) 
+- 🌐 [Portfolio Website]()
+
+### ⚡ Fun Fact
+I once built a full product store system using MERN Stack + Zustand + Chakra UI — in just a week! 😄  
