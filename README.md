@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Yash Lagare!
 
 💻 I'm a passionate developer currently pursuing my MCA from D.Y.Patil Agriculture & Technical University Talsande.  
-🚀 I love building full-stack applications and exploring the latest in web development and cloud computing.
+🚀 I love building full-stack applications and exploring the latest in web development.
 
 ### 👀 Interests
 - Full-Stack Development (MERN Stack)
