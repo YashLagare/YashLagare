@@ -9,7 +9,7 @@
 - Responsive Frontends
 
 ### 🌱 Currently Learning
-- Advanced React and Node.js(MERN)
+- Next.js
 
 ### 🤝 Looking to Collaborate On
 - Open-source projects
