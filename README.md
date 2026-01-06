@@ -10,6 +10,7 @@
 
 ### 🌱 Currently Learning
 - Next.js
+- TypeScript
 
 ### 🤝 Looking to Collaborate On
 - Open-source projects
