@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Yash Lagare!
 
 💻 I'm a passionate developer currently pursuing my MCA from D.Y.Patil Agriculture & Technical University Talsande.  
-💻😄Also working as a MERN-stack developer at Neosao Services Pvt
+💻😄Also working as a Full-stack developer at Neosao Services Pvt
 🚀 I love building full-stack applications and exploring the latest in web development.
 
 ### 👀 Interests
