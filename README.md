@@ -1,5 +1,16 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on<br>Open-source or real-world projects built with Next.js, React, TypeScript, or the MERN stack, especially products that prioritize scalability and user experience.<br><br>🤝 I’m looking for help with<br>Advanced Next.js patterns, large-scale app architecture, and optimizing full-stack applications for production.<br><br>🌱 I’m currently learning<br>Advanced Next.js (App Router), TypeScript best practices, backend optimization with Node.js, and real-time systems using Socket.IO.<br><br>💬 Ask me about<br>Next.js, React, TypeScript, MERN stack, JWT authentication, Tailwind CSS, API design, or structuring production-ready applications.<br><br>⚡ Fun fact<br>I balance company work and personal projects—and still enjoy refining code until it’s clean and scalable 🚀
+👯 I’m looking to collaborate on
+Modern web applications built with React, Next.js, TypeScript, and the MERN stack.
+
+🌱 I’m currently learning
+Advanced Next.js patterns, scalable frontend architecture, and backend optimization with Node.js.
+
+💬 Ask me about
+React.js, Next.js, TypeScript, Tailwind CSS, JWT authentication, REST APIs, and Socket.IO.
+
+⚡ Fun fact
+I enjoy building production-style projects and refining UI/UX until the experience feels smooth and polished 🚀
+
 
 
 
