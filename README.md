@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yash</h1>
+<h1 align="center">Hi 👋, I'm Yash Lagare</h1>
 <h3 align="center">A passionate Full Stack Developer from India focused on building modern and scalable web applications</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashlagare" alt="yashlagare" /></a> </p>
 
 - 🔭 I’m currently working on **Building full-stack web applications and improving real-world project architecture**
 
