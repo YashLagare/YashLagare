@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2b0a5e,100:6d28d9&height=220&section=header&text=Yash%20Lagare&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20(React%2FNext.js%2FTypeScript)%20%E2%86%92%20Full%20Stack%20%7C%20Fast%2C%20Scalable%20Web%20Apps%20with%20Node.js%2C%20PostgreSQL%20%26%20MongoDB&descAlignY=58&descSize=14)
+<img width="1536" height="1024" alt="ChatGPT Image Jul 7, 2026, 08_02_08 PM" src="https://github.com/user-attachments/assets/977cef7d-ad9f-488d-a133-18bca6a13a12" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Frontend+Developer+(React+%2F+Next.js+%2F+TypeScript);%E2%86%92+Full+Stack+Developer+(Node.js+%2B+PostgreSQL+%2B+MongoDB);Building+Fast%2C+Scalable%2C+Production-Grade+Web+Apps;Open+to+Opportunities" alt="Typing SVG" />
