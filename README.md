@@ -324,11 +324,6 @@ Building responsive, production-grade client applications using React.js, Next.j
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-2E1065?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YashLagare)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YashLagare)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YashLagare)
-[![CodeChef](https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YashLagare)
-
-> Replace the handles above with your actual coding-profile usernames if they differ.
 
 </div>
 
@@ -374,8 +369,6 @@ Building responsive, production-grade client applications using React.js, Next.j
 <img src="https://raw.githubusercontent.com/YashLagare/YashLagare/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
-
-> Snake animation requires a one-time GitHub Actions workflow in a `YashLagare/YashLagare` repo — see setup note at the end.
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
