@@ -1,15 +1,21 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2b0a5e,100:6d28d9&height=220&section=header&text=Yash%20Lagare&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Next.js%20%7C%20AI-Integrated%20Product%20Engineering&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2b0a5e,100:6d28d9&height=220&section=header&text=Yash%20Lagare&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20(React%2FNext.js%2FTypeScript)%20%E2%86%92%20Full%20Stack%20%7C%20Fast%2C%20Scalable%20Web%20Apps%20with%20Node.js%2C%20PostgreSQL%20%26%20MongoDB&descAlignY=58&descSize=14)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+%2B+Next.js;Building+Scalable%2C+Production-Grade+Web+Apps;Integrating+AI+into+Real-World+Products;Open+to+Full+Stack+%2F+SDE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Frontend+Developer+(React+%2F+Next.js+%2F+TypeScript);%E2%86%92+Full+Stack+Developer+(Node.js+%2B+PostgreSQL+%2B+MongoDB);Building+Fast%2C+Scalable%2C+Production-Grade+Web+Apps;Open+to+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-6D28D9?style=for-the-badge&logo=todoist&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN-Stack-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white)
+![Frontend Developer](https://img.shields.io/badge/Frontend-Developer-8B5CF6?style=for-the-badge&logo=react&logoColor=white)
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-6D28D9?style=for-the-badge&logo=todoist&logoColor=white)
+![Web Developer](https://img.shields.io/badge/Web-Developer-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)
+![React Developer](https://img.shields.io/badge/React-Developer-6D28D9?style=for-the-badge&logo=react&logoColor=white)
+![Software Engineer](https://img.shields.io/badge/Software-Engineer-5B21B6?style=for-the-badge&logo=codeforces&logoColor=white)
+![MERN Stack Developer](https://img.shields.io/badge/MERN%20Stack-Developer-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white)
+![Next.js Developer](https://img.shields.io/badge/Next.js-Developer-4C1D95?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-A78BFA?style=for-the-badge&logo=handshake&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -33,12 +39,12 @@
 
 ```yaml
 name: Yash Lagare
-role: Full Stack Developer
-focus: MERN Stack · Next.js · TypeScript · AI-Integrated Web Products
-mindset: Ship production-grade, scalable, recruiter-defensible software
+title: "Frontend Developer (React/Next.js/TypeScript) → Full Stack"
+tagline: "I build fast, scalable web apps with Node.js, PostgreSQL & MongoDB"
+status: Open to opportunities
 ```
 
-I'm a **Full Stack Developer** who builds end-to-end, production-style web applications — not tutorial clones. My work spans authentication systems, real-time infrastructure (Socket.IO, Stream), payment integrations (Razorpay), and AI-powered product features (OpenAI image generation pipelines). I care about **architecture over hacks** — modular MVC backends, typed contracts across the stack, and systems designed to survive beyond the first commit.
+I'm a **Frontend Developer (React / Next.js / TypeScript)** transitioning into **Full Stack** engineering — I build fast, scalable web apps backed by **Node.js, PostgreSQL, and MongoDB**. On the frontend, I focus on performant, accessible, component-driven UIs (SSR, App Router, reusable component libraries); across the stack, my work extends into authentication systems, real-time infrastructure (Socket.IO, Stream), payment integrations (Razorpay), and AI-powered product features (OpenAI image generation pipelines). I care about **architecture over hacks** — clean typed contracts, modular systems, and UI that's built to scale beyond the first commit.
 
 Currently working as a **Frontend Developer Intern**, integrating APIs across 15+ production client applications and shipping reusable component libraries used in real deployments.
 
@@ -46,12 +52,15 @@ Currently working as a **Frontend Developer Intern**, integrating APIs across 15
 <tr>
 <td>
 
-**🎯 Currently Open To**
+**🎯 Open To**
 
-- Full Stack Developer roles (MERN / Next.js)
-- SDE / Software Engineer positions
-- Backend scalability & system design collaborations
-- Open-source contributions
+- Frontend Developer
+- Full Stack Developer
+- Web Developer
+- React Developer
+- Software Engineer
+- MERN Stack Developer
+- Next.js Developer
 
 </td>
 </tr>
@@ -356,9 +365,13 @@ exploring:
   - Open-source contribution
 
 open_to:
-  - Full Stack Developer / SDE roles
-  - System design & backend scalability collaborations
-  - Open-source projects
+  - Frontend Developer
+  - Full Stack Developer
+  - Web Developer
+  - React Developer
+  - Software Engineer
+  - MERN Stack Developer
+  - Next.js Developer
 ```
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
