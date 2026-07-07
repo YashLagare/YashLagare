@@ -1,10 +1,9 @@
 <div align="center">
 
-<img width="1536" height="1024" alt="ChatGPT Image Jul 7, 2026, 08_02_08 PM" src="https://github.com/user-attachments/assets/977cef7d-ad9f-488d-a133-18bca6a13a12" />
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2b0a5e,100:0f0524&height=180&section=header&text=Yash%20Lagare&fontSize=42&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Frontend+Developer+(React+%2F+Next.js+%2F+TypeScript);%E2%86%92+Full+Stack+Developer+(Node.js+%2B+PostgreSQL+%2B+MongoDB);Building+Fast%2C+Scalable%2C+Production-Grade+Web+Apps;Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Frontend+Developer+(React+%2F+Next.js+%2F+TypeScript);%E2%86%92+Full+Stack+Developer+(Node.js+%2B+PostgreSQL+%2B+MongoDB);Building+Fast%2C+Scalable%2C+Production-Grade+Web+Apps;AI-Integrated+Product+Engineering;Open+to+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -40,12 +39,14 @@
 
 ```yaml
 name: Yash Lagare
-title: "Frontend Developer (React/Next.js/TypeScript) → Full Stack"
+title: "Frontend Developer (React/Next.js/TypeScript) → Full Stack Engineer"
 tagline: "I build fast, scalable web apps with Node.js, PostgreSQL & MongoDB"
 status: Open to opportunities
 ```
 
-I'm a **Frontend Developer (React / Next.js / TypeScript)** transitioning into **Full Stack** engineering — I build fast, scalable web apps backed by **Node.js, PostgreSQL, and MongoDB**. On the frontend, I focus on performant, accessible, component-driven UIs (SSR, App Router, reusable component libraries); across the stack, my work extends into authentication systems, real-time infrastructure (Socket.IO, Stream), payment integrations (Razorpay), and AI-powered product features (OpenAI image generation pipelines). I care about **architecture over hacks** — clean typed contracts, modular systems, and UI that's built to scale beyond the first commit.
+I'm a **Frontend Developer (React / Next.js / TypeScript)** transitioning into **Full Stack** engineering — I build fast, scalable, production-grade web applications backed by **Node.js, PostgreSQL, and MongoDB**. My core focus is performant, accessible, component-driven UI engineering (SSR, App Router, reusable component libraries) alongside deep full-stack ownership across authentication systems, real-time infrastructure (Socket.IO, Stream), payment integrations (Razorpay), and AI-powered product features (OpenAI image-generation pipelines).
+
+I approach engineering with a **product mindset** — thinking beyond feature delivery toward system architecture, data contracts, and long-term maintainability. I care about **architecture over hacks**: clean typed contracts, modular systems, and UI built to scale beyond the first commit.
 
 Currently working as a **Frontend Developer Intern**, integrating APIs across 15+ production client applications and shipping reusable component libraries used in real deployments.
 
@@ -89,7 +90,7 @@ Currently working as a **Frontend Developer Intern**, integrating APIs across 15
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
 </p>
 
-**Auth, Tooling & Deployment**
+**Cloud, DevOps & Tooling**
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vercel,render,vscode,postman" />
@@ -289,15 +290,47 @@ Building responsive, production-grade client applications using React.js, Next.j
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
+## 🟣 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Full-Stack Developer Certificate | Awarded by Graphy (30dc.graphy.com) — Issued 13 November 2025 |
+| JavaScript & React JS Certificate | Awarded by Graphy (30dc.graphy.com) — Issued 05 June 2026 |
+| Production API Integration | Delivered REST API integrations across 15+ live client applications during internship tenure |
+| Reusable Component Architecture | Built shared React/Next.js component libraries adopted across multiple production codebases |
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 ## 🟣 Certifications
 
-**Graphy (30dc.graphy.com)**
+**Graphy**
 
 [![Full-Stack Developer Certificate](https://img.shields.io/badge/Full--Stack%20Developer%20Certificate-30dc.graphy.com-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)](https://30dc.graphy.com/verify-certificate?serialno=N3NS5WJH)
 `Issued 13 November 2025`
 
 [![JavaScript & React JS Certificate](https://img.shields.io/badge/JavaScript%20%26%20React%20JS%20Certificate-30dc.graphy.com-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](https://30dc.graphy.com/verify-certificate?serialno=UC7UIZRO)
 `Issued 05 June 2026`
+
+> Additional provider certifications (AWS, Oracle, NPTEL, Cisco) will be added here as they are completed.
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## 🟣 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-2E1065?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YashLagare)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YashLagare)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YashLagare)
+[![CodeChef](https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YashLagare)
+
+> Replace the handles above with your actual coding-profile usernames if they differ.
+
+</div>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
