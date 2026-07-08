@@ -315,8 +315,6 @@ Building responsive, production-grade client applications using React.js, Next.j
 [![JavaScript & React JS Certificate](https://img.shields.io/badge/JavaScript%20%26%20React%20JS%20Certificate-30dc.graphy.com-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white)](https://30dc.graphy.com/verify-certificate?serialno=UC7UIZRO)
 `Issued 05 June 2026`
 
-> Additional provider certifications (AWS, Oracle, NPTEL, Cisco) will be added here as they are completed.
-
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 🟣 Coding Profiles
