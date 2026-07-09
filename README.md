@@ -340,16 +340,6 @@ Building responsive, production-grade client applications using React.js, Next.j
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YashLagare&theme=algolia&no-frame=true&margin-w=8&row=1&column=7" />
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
 ## 🟣 Contribution Activity
 
 <div align="center">
