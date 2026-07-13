@@ -331,9 +331,6 @@ Building responsive, production-grade client applications using React.js, Next.j
 
 <div align="center">
 
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashLagare&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d0221&title_color=a78bfa&text_color=e9d5ff" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashLagare&hide_border=true&theme=tokyonight&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=C4B5FD&currStreakLabel=E9D5FF" />
 
 </div>
