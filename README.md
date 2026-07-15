@@ -347,16 +347,6 @@ Building responsive, production-grade client applications using React.js, Next.j
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YashLagare/YashLagare/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
 ## 🟣 Current Focus
 
 ```yaml
