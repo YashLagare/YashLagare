@@ -114,6 +114,25 @@ Currently working as a **Frontend Developer Intern**, integrating APIs across 15
 ## 🟣 Featured Projects
 
 <details>
+<summary><b>⚡ FlowForge — AI-Powered Browser Automation Platform</b></summary>
+<br/>
+
+Production-grade browser automation platform enabling teams to visually build, collaborate on, and execute browser automation workflows without writing complex scripts.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Next.js 16, React 19, TypeScript, React Flow, Liveblocks, Trigger.dev, Stagehand, Browserbase, Drizzle ORM, Neon PostgreSQL, Clerk, Tailwind CSS, shadcn/ui |
+| **Scale** | Visual workflow builder with real-time collaboration and durable background workflow execution |
+| **Performance** | Server Actions, background processing with Trigger.dev, optimized serverless architecture, scalable workflow execution |
+| **Security** | Clerk authentication, organization-based access control, role-based authorization, subscription feature gating |
+| **Impact** | Simplifies browser automation through a collaborative visual workflow builder for developers, QA engineers, and business teams |
+| **Repository** | [GitHub](https://github.com/YashLagare/FlowForge) · [Live](https://flow-forge-ebon.vercel.app/) |
+
+Built using React Flow for drag-and-drop workflow creation, Liveblocks for real-time multiplayer collaboration, Trigger.dev for durable background jobs, and Stagehand + Browserbase for browser automation. Powered by Drizzle ORM, Neon PostgreSQL, and Next.js Server Actions, FlowForge showcases modern SaaS architecture with scalable workflow execution, secure authentication, and production-ready engineering practices.
+
+</details>
+
+<details>
 <summary><b>🧾 InvoicePilot — Full Stack Invoice Management SaaS</b></summary>
 <br/>
 
